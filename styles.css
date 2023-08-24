@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+nav{
+	background-color: #011e29;
+	height: 100% 
+	width: 100%;
+	color:white;
+	text-align:center;
+	font:salmon
+}
+
+.flex-container{
+	display:flex;
+	flex-direction:space-evenly;
+	align-items: center;
+	
+	
+}
+
+.im{
+	width:50%
+	
+}
